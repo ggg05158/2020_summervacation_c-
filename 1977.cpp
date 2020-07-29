@@ -28,7 +28,7 @@ int main()
         }
     }
     if(min==N+1)
-        cout<<"1"<<endl;
+        cout<<"-1"<<endl;
     else{
         cout<<sum<<endl;
         cout<<min<<endl;
