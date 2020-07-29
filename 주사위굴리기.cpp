@@ -5,7 +5,7 @@ int main()
 {
 	int T;
 	srand((int)time(0));
-	cout << "È½¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À";
+	cout << "íšŸìˆ˜ë¥¼ ì…ë ¥í•˜ì‹œì˜¤";
 	cin >> T;
 	for (int i=0; i < T; i++)
 	{
